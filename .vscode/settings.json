@@ -1,0 +1,13 @@
+{
+    "problems.decorations.enabled": false,
+    "outline.problems.enabled": true,
+    "outline.problems.colors": true,
+    "outline.problems.badges": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "debug.javascript.breakOnConditionalError": true,
+    "accessibility.signals.lineHasError": {
+        "announcement": "off"
+    },
+    "diffEditor.codeLens": true,
+    "problems.visibility": false
+}
