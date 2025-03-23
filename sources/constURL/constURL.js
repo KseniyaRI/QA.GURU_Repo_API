@@ -1,0 +1,1 @@
+export const URL_API = 'https://apichallenges.herokuapp.com/'; //тестовый стенд API_Challenges
